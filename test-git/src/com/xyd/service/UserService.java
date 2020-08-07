@@ -4,5 +4,5 @@ public interface UserService {
 	void insertUser();
 	void m2();
 	void m3();
-	void m4();
+	void m41();
 }
