@@ -5,4 +5,5 @@ public interface UserService {
 	void m2();
 	void m3();
 	void m41();
+	void m6();
 }
